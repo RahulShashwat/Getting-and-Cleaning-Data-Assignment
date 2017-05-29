@@ -10,7 +10,7 @@ The data set for this project is https://d396qusza40orc.cloudfront.net/getdata%2
 
 Making Modifications to This Script
 
-Please make the amendments to set your working directory.
+Please make the amendments to set your working directory. i.e in line no 20 and 24
 
 Assignment Summary
 
